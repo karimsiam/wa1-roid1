@@ -1,0 +1,26 @@
+{
+    "accounts":
+    [
+        {
+            "id":1,
+            "authToken":"",
+            "chatwootAPIUrl":"",
+            "chatwootApiKey":"",
+            "whatsappWebGroupParticipantsCustomField":"",
+            "whatsappWebInboxes":[
+                {
+                    "id":10, 
+                    "prefixAgentNameOnMessages":true,
+                    "slackToken":null,
+                    "remotePrivateMessagePrefix":true
+                },
+                {
+                    "id":12, 
+                    "prefixAgentNameOnMessages":true,
+                    "slackToken":null,
+                    "remotePrivateMessagePrefix":"REMOTE: "
+                }
+            ]
+        }
+    ]
+}
