@@ -1,0 +1,20 @@
+{
+    "accounts":
+    [
+        {
+            "id":2,
+            "chatwootAccessToken":"Pq5xFfbKC4bdG4WLmYrVNSmj",
+            "chatwootAPIUrl":"https://roid1-web.root.cxroid.com/api/v1",
+            "chatwootApiKey":"5soZao6uaC4peJQVcdQAZ8cH",
+            "whatsappWebGroupParticipantsCustomField":"",
+            "whatsappWebInboxes":[
+                {
+                    "id":4,
+                    "prefixAgentNameOnMessages":true,
+                    "slackToken":null,
+                    "remotePrivateMessagePrefix":"Private: "
+                }
+           ]
+        }
+    ]
+}
